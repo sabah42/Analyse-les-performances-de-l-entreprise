@@ -34,6 +34,8 @@ L’analyse couvre quatre axes métier :
  Analyse-les-performances-de-l-entreprise/
 │
 
+├── northwind.db # Base de données utilisée
+
 ├── sql/
 
   │   ├── vente.sql # KPI ventes (quantités, marges, saisonnalité, N/N-1)
@@ -59,9 +61,9 @@ L’analyse couvre quatre axes métier :
 
 |   ├── rh.png  # Capture page RH
 
-├──  documentation/
+ 
 
-│   └── analyse_kpi.pdf  # Explication détaillée des KPI et questions métier
+│── analyse_kpi.pdf  # Explication détaillée des KPI et questions métier
 
 │
 └── README.md
